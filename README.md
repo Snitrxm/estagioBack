@@ -1,11 +1,12 @@
-# Projeto Back-End para Estagio
+# Projeto Back-End para Estagio - Back-End Project for Internship
 
-### Tecnologias Usadas
+### Tecnologias Usadas - Used Technologies
 
 - NodeJS </br>
+- JavaScript
 - MongoDB
 
-### Rotas
+### Rotas - Routes
 
 - Registro </br>
 - Login Com JWT (Json Web Token) </br>
